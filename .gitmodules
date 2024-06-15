@@ -1,0 +1,3 @@
+[submodule "book_example/learnjava5e"]
+	path = book_example/learnjava5e
+	url = https://github.com/l0y/learnjava5e.git
